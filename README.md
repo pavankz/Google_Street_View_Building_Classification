@@ -1,6 +1,6 @@
 # Are you in Safe Building?
 
-## Introduxtion
+## Introduction
 - Disaster risk management is a global priority, with earthquakes being a significant cause of casualties and economic losses over the past several decades. The impact of an earthquake on a region depends on various factors, including
  the structural integrity of buildings, which is critical in reducing the likelihood of collapse. One key aspect of evaluating seismic vulnerability is assessing the ability of buildings to sustain earthquake loads. Multi-story structures
  with abrupt changes in story stiffness are particularly prone to collapse, making it essential to rapidly and accurately identify potential structural deficiencies across large building inventories.
