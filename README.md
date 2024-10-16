@@ -115,6 +115,7 @@ To run the project, ensure the following dependencies are installed:
 3. **Model Inference**:
     - You can load the trained model (`ResNet244_detected.h5`) using Keras' `load_model` function to perform predictions on new data.
 
+Find the problem statement [here](https://github.com/pavankz/Google_Street_View_Building_Classification/tree/master).
 ```python
 from tensorflow.keras.models import load_model
 model = load_model('ResNet244_detected.h5')
